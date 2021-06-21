@@ -1,0 +1,6 @@
+C:\Users\Vyacheslav\Desktop\Домашнее задание\Тема 1\HomeWork_01\Example_03\bin\Debug\Example_03.exe.config
+C:\Users\Vyacheslav\Desktop\Домашнее задание\Тема 1\HomeWork_01\Example_03\bin\Debug\Example_03.exe
+C:\Users\Vyacheslav\Desktop\Домашнее задание\Тема 1\HomeWork_01\Example_03\bin\Debug\Example_03.pdb
+C:\Users\Vyacheslav\Desktop\Домашнее задание\Тема 1\HomeWork_01\Example_03\obj\Debug\Example_03.csproj.CoreCompileInputs.cache
+C:\Users\Vyacheslav\Desktop\Домашнее задание\Тема 1\HomeWork_01\Example_03\obj\Debug\Example_03.exe
+C:\Users\Vyacheslav\Desktop\Домашнее задание\Тема 1\HomeWork_01\Example_03\obj\Debug\Example_03.pdb

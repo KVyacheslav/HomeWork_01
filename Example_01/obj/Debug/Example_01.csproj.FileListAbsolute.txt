@@ -1,0 +1,2 @@
+C:\Users\Vyacheslav\Desktop\Домашнее задание\Тема 1\HomeWork_01\Example_01\obj\Debug\Example_01.csproj.AssemblyReference.cache
+C:\Users\Vyacheslav\Desktop\Домашнее задание\Тема 1\HomeWork_01\Example_01\obj\Debug\Example_01.csproj.CoreCompileInputs.cache

@@ -1,0 +1,7 @@
+C:\Users\Vyacheslav\Desktop\Домашнее задание\Тема 1\HomeWork_01\Example_02\obj\Debug\Example_02.csproj.AssemblyReference.cache
+C:\Users\Vyacheslav\Desktop\Домашнее задание\Тема 1\HomeWork_01\Example_02\obj\Debug\Example_02.csproj.CoreCompileInputs.cache
+C:\Users\Vyacheslav\Desktop\Домашнее задание\Тема 1\HomeWork_01\Example_02\bin\Debug\Example_02.exe.config
+C:\Users\Vyacheslav\Desktop\Домашнее задание\Тема 1\HomeWork_01\Example_02\bin\Debug\Example_02.exe
+C:\Users\Vyacheslav\Desktop\Домашнее задание\Тема 1\HomeWork_01\Example_02\bin\Debug\Example_02.pdb
+C:\Users\Vyacheslav\Desktop\Домашнее задание\Тема 1\HomeWork_01\Example_02\obj\Debug\Example_02.exe
+C:\Users\Vyacheslav\Desktop\Домашнее задание\Тема 1\HomeWork_01\Example_02\obj\Debug\Example_02.pdb
